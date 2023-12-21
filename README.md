@@ -32,6 +32,8 @@ FA.py is the implementation of FA.
 MDMR.py is the implementation of MDMR. 
 RP.py is the implementation of RP. 
 TSVD.py is the implementation of TSVD.
+IG.py is the implementation of IG.
+Lasso.py is the implementation of Lasso.
 Group Lasso.py is the implementation of Group Lasso.
 
 **Classifier:
@@ -43,4 +45,6 @@ MLP.py is the implementation of MLP.
 LR.py is the implementation of LR. 
 CNN.py is the implementation of CNN. 
 DNN.py is the implementation of DNN. 
+LSTM.py is the implementation of LSTM. 
+GRU.py is the implementation of GRU. 
 ECA-PHV.py is the implementation of ECA-PHV.
